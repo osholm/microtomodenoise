@@ -131,7 +131,7 @@ Available modes for setting the noise and texture level (*-noise*):
 
 #
 
-Please contact bruns@nano.ku.dk or osholm@nano.ku.dk for assistance, requests or recommendations.
+Please contact stefan.bruns@hzg.de or osho@fysik.dtu.dk for assistance, requests or recommendations.
 
 #
 
